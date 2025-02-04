@@ -1,7 +1,7 @@
-README: Predicting the Big Bang with Prime Numbers
----
-This script generates an array of numbers from 1 to 100, replacing numbers divisible by 3 with "BIG", numbers divisible by 5 with "BANG", and numbers divisible by both 3 and 5 with "BIGBANG". The result is saved in a JSON file called 'output.json'.
--
+## README: Predicting the Big Bang with Prime Numbers
+
+## This script generates an array of numbers from 1 to 100, replacing numbers divisible by 3 with "BIG", numbers divisible by 5 with "BANG", and numbers divisible by both 3 and 5 with "BIGBANG". The result is saved in a JSON file called 'output.json'.
+
 1. Importing the 'fs' Module
 
 const fs = require('fs');
@@ -64,8 +64,8 @@ This line uses the 'writeFileSync' method from the 'fs' module to save the 'resu
 console.log("The result has been saved to 'output.json'");
 
 This line outputs a message to the console, confirming that the result has been saved to the 'output.json' file.
--
-How to Run the Script
+
+## How to Run the Script
 
 1. Clone the repository or download the script.
 2. Ensure you have Node.js installed.
@@ -75,7 +75,3 @@ How to Run the Script
    node bigbang.js
    
 5. After the script runs, you will see a confirmation message in the console, and the `output.json` file will be generated in the same directory.
-
----
-
-Let me know if you need any more details!
