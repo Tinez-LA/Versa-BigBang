@@ -1,7 +1,3 @@
-Here's a sample `README.md` file that explains how to run the provided script:
-
----
-
 # BIG BANG Number Generator
 
 This script generates an array of numbers from 1 to 100, with replacements based on divisibility by 3 and 5. The goal is to predict when a "big bang" might happen based on the collision of prime numbers 3 and 5.
