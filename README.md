@@ -70,8 +70,6 @@ This line outputs a message to the console, confirming that the result has been 
 1. Clone the repository or download the script.
 2. Ensure you have Node.js installed.
 3. Open a terminal or command prompt in the directory where the script is located.
-4. Run the script with the following command:
-
-   node bigbang.js
+4. Run the script with the following command: "node bigbang.js"
    
-5. After the script runs, you will see a confirmation message in the console, and the `output.json` file will be generated in the same directory.
+5. After the script runs, you will see a confirmation message in the console, and the 'output.json' file will be generated in the same directory.
