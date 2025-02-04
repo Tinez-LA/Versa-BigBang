@@ -18,6 +18,7 @@ The result is saved to a file called 'output.json'.
 ### Step 1: Clone the Repository
 
 git clone https://github.com/Tinez-LA/Versa-BigBang.git
+
 cd Versa-BigBang
 
 ### Step 2: Install Dependencies
